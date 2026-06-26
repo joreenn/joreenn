@@ -1,10 +1,9 @@
 <div align="center">
 ```
-    _  ___  ___ ___ _  _ 
+_  ___  ___ ___ _  _ 
  _ | |/ _ \| _ \ __| \| |
 | || | (_) |   / _|| .` |
  \__/ \___/|_|_\___|_|\_|
-```
  
 ### Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
 *Building web apps that are clean, functional, and fast.*
