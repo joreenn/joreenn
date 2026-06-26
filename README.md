@@ -1,5 +1,12 @@
 <div align="center">
-# 𝗝𝗼𝗿𝗲𝗻 𝗠𝗼𝗻𝘁𝗲𝗷𝗼
+```
+   ██╗ ██████╗ ██████╗ ███████╗███╗   ██╗
+   ██║██╔═══██╗██╔══██╗██╔════╝████╗  ██║
+   ██║██║   ██║██████╔╝█████╗  ██╔██╗ ██║
+   ██║██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║
+   ██║╚██████╔╝██║  ██║███████╗██║ ╚████║
+   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+```
  
 ### Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
 *Building web apps that are clean, functional, and fast.*
@@ -45,13 +52,22 @@
  
 ---
  
-## 🚀 Projects
+## 📊 Most Used Languages
  
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **JZ Waters — POS System** | Next.js · Node.js · MySQL · Socket.io | Full POS & delivery management with real-time tracking, multi-role auth, loyalty rewards, and analytics dashboard |
-| **SammiesApt — Tenant Management** | React · Express · MySQL | Apartment management system with billing, maintenance requests, and tenant portal |
-| **CoolSystem Specialist** | Laravel · PHP · MySQL | Service booking platform for aircon technicians with scheduling and job tracking |
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joreenn&layout=compact&theme=dark&title_color=e83a4f&text_color=ffffff&bg_color=0d0f14&border_color=252a38&langs_count=8)](https://github.com/joreenn)
+ 
+</div>
+---
+ 
+## 🏅 Certifications
+ 
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| **ITS in Cybersecurity** | Certiport | May 2026 |
+| **ITS in Network Security** | Certiport | March 2026 |
+| **ITS in Databases** | Certiport | March 2025 |
+| **JavaScript, Git & GitHub Workshop** | CCE Skills Clinic — Mentors | June 2026 |
  
 ---
  
