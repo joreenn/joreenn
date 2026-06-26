@@ -1,13 +1,9 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Joren+Montejo+👋" alt="Joren Montejo" />
-<p>
-  <strong>Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭</strong><br/>
-  <em>Building web apps that are clean, functional, and fast.</em>
-</p>
-[![GitHub](https://img.shields.io/badge/github.com/joreenn-181717?style=flat-square&logo=github)](https://github.com/joreenn)
- 
-</div>
----
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="120" rx="12" fill="#0d0f14"/>
+  <text x="300" y="52" font-family="monospace" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="6">JOREN MONTEJO</text>
+  <line x1="60" y1="68" x2="540" y2="68" stroke="#e83a4f" stroke-width="2"/>
+  <text x="300" y="92" font-family="monospace" font-size="13" fill="#7b8099" text-anchor="middle" letter-spacing="2">FULL-STACK DEVELOPER · UI/UX · DAVAO CITY 🇵🇭</text>
+</svg>
  
 ## ⚡ Tech Stack
  
