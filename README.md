@@ -1,7 +1,6 @@
 <div align="center">
-# Joren Montejo
+![header](https://capsule-render.vercel.app/api?type=waving&color=e83a4f&height=200&section=header&text=Joren%20Montejo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20CS%20Student%20from%20Davao%20City%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=16&descColor=ffffff)
  
-### Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
 *Building web apps that are clean, functional, and fast.*
  
 </div>
@@ -59,5 +58,7 @@
 *3rd Year BS Computer Science · University of Mindanao · Open to internship opportunities*
  
 [![GitHub](https://img.shields.io/badge/github.com/joreenn-181717?style=flat-square&logo=github)](https://github.com/joreenn)
+ 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=e83a4f&height=100&section=footer)
  
 </div>
