@@ -1,9 +1,11 @@
 <div align="center">
-```
-_  ___  ___ ___ _  _ 
- _ | |/ _ \| _ \ __| \| |
-| || | (_) |   / _|| .` |
- \__/ \___/|_|_\___|_|\_|
+𝗝𝗼𝗿𝗲𝗻 𝗠𝗼𝗻𝘁𝗲𝗷𝗼
+
+Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
+
+Building web apps that are clean, functional, and fast.
+
+</div>
  
 ### Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
 *Building web apps that are clean, functional, and fast.*
