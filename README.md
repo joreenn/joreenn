@@ -2,7 +2,7 @@
   <rect width="600" height="120" rx="12" fill="#0d0f14"/>
   <text x="300" y="52" font-family="monospace" font-size="36" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="6">JOREN MONTEJO</text>
   <line x1="60" y1="68" x2="540" y2="68" stroke="#e83a4f" stroke-width="2"/>
-  <text x="300" y="92" font-family="monospace" font-size="13" fill="#7b8099" text-anchor="middle" letter-spacing="2">FULL-STACK DEVELOPER · UI/UX · DAVAO CITY 🇵🇭</text>
+  <text x="300" y="92" font-family="monospace" font-size="13" fill="#7b8099" text-anchor="middle" letter-spacing="2">FULL-STACK DEVELOPER · UI/UX </text>
 </svg>
  
 ## ⚡ Tech Stack
