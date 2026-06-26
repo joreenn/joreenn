@@ -1,11 +1,11 @@
 <div align="center">
 ```
-   ██╗ ██████╗ ██████╗ ███████╗███╗   ██╗
-   ██║██╔═══██╗██╔══██╗██╔════╝████╗  ██║
-   ██║██║   ██║██████╔╝█████╗  ██╔██╗ ██║
-   ██║██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║
-   ██║╚██████╔╝██║  ██║███████╗██║ ╚████║
-   ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+   ___  ___________ _____ _   _ 
+  |_  ||  _  | ___ \  ___| \ | |
+    | || | | | |_/ / |__ |  \| |
+    | || | | |    /|  __|| . ` |
+/\__/ /\ \_/ / |\ \| |___| |\  |
+\____/  \___/\_| \_\____/\_| \_/
 ```
  
 ### Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
@@ -50,14 +50,6 @@
 | **UI/UX** | Figma, Component Design, Responsive Layouts, Accessibility |
 | **Dev Tools** | Git, GitHub, Socket.io, Nodemailer, PDFKit |
  
----
- 
-## 📊 Most Used Languages
- 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joreenn&layout=compact&theme=dark&title_color=e83a4f&text_color=ffffff&bg_color=0d0f14&border_color=252a38&langs_count=8)](https://github.com/joreenn)
- 
-</div>
 ---
  
 ## 🏅 Certifications
