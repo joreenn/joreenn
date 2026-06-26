@@ -1,14 +1,11 @@
 <div align="center">
-𝗝𝗼𝗿𝗲𝗻 𝗠𝗼𝗻𝘁𝗲𝗷𝗼
-
-Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
-
-Building web apps that are clean, functional, and fast.
-
-</div>
+# Joren Montejo
  
-### Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭
+**Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭**
+ 
 *Building web apps that are clean, functional, and fast.*
+ 
+[![GitHub](https://img.shields.io/badge/github.com/joreenn-181717?style=flat-square&logo=github)](https://github.com/joreenn)
  
 </div>
 ---
@@ -64,7 +61,5 @@ Building web apps that are clean, functional, and fast.
  
 <div align="center">
 *3rd Year BS Computer Science · University of Mindanao · Open to internship opportunities*
- 
-[![GitHub](https://img.shields.io/badge/github.com/joreenn-181717?style=flat-square&logo=github)](https://github.com/joreenn)
  
 </div>
