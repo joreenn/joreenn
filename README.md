@@ -1,10 +1,9 @@
 <div align="center">
-# Joren Montejo
- 
-**Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭**
- 
-*Building web apps that are clean, functional, and fast.*
- 
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Joren+Montejo+👋" alt="Joren Montejo" />
+<p>
+  <strong>Full-Stack Developer · UI/UX Designer · CS Student from Davao City 🇵🇭</strong><br/>
+  <em>Building web apps that are clean, functional, and fast.</em>
+</p>
 [![GitHub](https://img.shields.io/badge/github.com/joreenn-181717?style=flat-square&logo=github)](https://github.com/joreenn)
  
 </div>
