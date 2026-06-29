@@ -55,6 +55,6 @@
 ---
  
 <div align="center">
-*3rd Year BS Computer Science · University of Mindanao · Open to internship opportunities*
+*3rd Year BS Computer Science · University of Mindanao ·*
  
 </div>
